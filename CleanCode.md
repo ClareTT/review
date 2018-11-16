@@ -52,5 +52,5 @@ I'll update the text whenever I gain some kind of things that made me inspired. 
 2. 修改名称（meaning）
 3. 消除重复（ function/object）:point_left:这是终极目标
    
-OK, 今天就写到这里吧，多实践才可以好好运用规则哦~ 现在要去改代码了。（话说中英文混杂会挨打的，不管了，反正也没人看[捂脸][捂脸]）
+OK, 今天就写到这里吧，多实践才可以好好运用规则哦~ 现在要去改代码了。（话说中英文混杂会挨打的，不管了，反正也没人看[捂脸][捂脸]）  
 Oh, by the way, it's Nov 16th, 2018.
