@@ -20,7 +20,7 @@ I'll update the text whenever I gain some kind of things that made me inspired. 
     1. 类名：名词/名词短语；
     2. 方法名：动词/动词短语；  
     
-*(:expressionless: Forgive me for the impressive logic, What I wrote down is not the entire content. And the order has been modified to suit my own memory.)*    
+*(:expressionless: Forgive me for the impressive logic, What I wrote down is not the entire content. And the order has been modified to suit my own memory system.)*    
 ## 函数
 遵循以下两点规则吧：
 1. 短
