@@ -20,3 +20,5 @@ It seems like the catalog is so boring, let's just not push it.
 4. 不想让除了开发者以外的人看到的属性和方法，可以设置其Hidden=true；
 5. 类的方法都有一个参数是obj（这只是个代号），在其他语言中，这个参数可能是隐藏的；
 6. MATLAB中调用成员方法可以用Dot，也可以（obj，arg1，...），这样；
+7. 可以采用将成员变量、方法的访问权限设置为private来达到封装的目的；
+8. 如果一个成员变量或方法的访问权限为private，其子类无法访问，如果是protected，仅内部和子类可以访问；
